@@ -1,1 +1,2 @@
-# To-do
+# To-do simple project
+this project will help beginners in the js to be able to apply the basic skills in the simple real world projects like this one i have used html,css and javascript to make this project work!
